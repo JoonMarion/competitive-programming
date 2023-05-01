@@ -8,8 +8,12 @@ int main(){
 
     cin >> n;
 
-    for(int i = 0; i < n*2; i++){
-        cout << i << endl;
+    for(int i = 1; i <= n; i++){
+        int a = i, b = i * i, c = i * i * i;
+
+        cout << a << " " << b << " " << c << endl;
+        cout << a << " " << b + 1 << " " <<  c + 1 << endl;
     }
+
     return 0;
 }
