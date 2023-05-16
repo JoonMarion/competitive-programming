@@ -1,3 +1,9 @@
+// INPUT TYPES
+// SEARCH SOLUTIONS WITH ENTRIES BY THE COMMAND
+// 
+// 10 100
+// 17 13 20 10 12 16 10 13 13 10
+
 #include <bits/stdc++.h>
 
 using namespace std;
