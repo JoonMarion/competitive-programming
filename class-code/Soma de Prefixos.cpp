@@ -26,7 +26,7 @@ int main()
         [3, 5] => 12
     */
  
-   int N;
+    int N;
  
     cin >> N;
  
@@ -36,8 +36,6 @@ int main()
     {
         cin >> array[i];
     }
- 
- 
  
     int Q;
  
